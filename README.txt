@@ -1,3 +1,3 @@
-Assignment folder contains html,css,javascripts files. Branching, Merging will be done in this directory.
+This CSS Assignment folder contains html,css,javascripts files. Branching, Merging will be done in this directory.
 
 Branching done....
